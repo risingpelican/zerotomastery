@@ -1,0 +1,37 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+	font-family: 'abel', sans-serif;
+}
+body {
+  background-image: url('https://c0.wallpaperflare.com/preview/721/720/960/black-laptop-computer.jpg'); 
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+}
+h1 {
+	font-size: 3rem;
+	color: orange;
+
+}
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+.btn-xl {
+  padding: 1rem 2rem;
+}
+hr {
+  border-color: orange;
+  border-width: 5px;
+  max-width: 65px;
+
+}
+.buffer {
+  height: 25px;
+}
